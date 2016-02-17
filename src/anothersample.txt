@@ -1,1 +1,2 @@
 this is anpther sample file
+This is the newly added line
