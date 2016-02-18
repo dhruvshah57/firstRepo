@@ -3,3 +3,5 @@ This is the newly added line
 This is the third line, changed now
 This is added after the add command
 Skipping the stage process by adding -a to the git commit command
+
+this is added but not tat one
